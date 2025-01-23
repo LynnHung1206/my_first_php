@@ -1,0 +1,14 @@
+{
+    "name": "lynn/my_first_php",
+    "description": "my first php project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lynn"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
