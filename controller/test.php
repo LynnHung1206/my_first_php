@@ -1,5 +1,5 @@
 <?php
-require 'vo/Member.php';
+require '../vo/Member.php';
 
 $mem = new Member();
 $mem->mem_name = 'test';

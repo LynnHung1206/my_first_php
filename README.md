@@ -28,3 +28,7 @@ composer init
 ```
 要求輸入一些東西，然後生成composer.json
 
+### 測試
+```cmd
+php -S localhost:8000 -t controller //index.php所在目錄，在根目錄的話就是 .
+```
