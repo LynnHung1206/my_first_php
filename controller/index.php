@@ -1,6 +1,7 @@
 <?php
 
 require_once '../db/db.php';
+use Monolog\Logger;
 
 header('Content-Type: application/json');
 
